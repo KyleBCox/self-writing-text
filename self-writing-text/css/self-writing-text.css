@@ -1,0 +1,7 @@
+﻿.self-writing-text .off {
+    visibility: hidden;
+}
+
+.self-writing-text .on {
+    visibility: visible;
+}
